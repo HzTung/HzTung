@@ -9,7 +9,7 @@
 <a href="#">
     <img src="svg/hztung.svg" width="1200" height="570">
 </a>
-<--
+<!--
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
